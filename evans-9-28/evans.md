@@ -69,8 +69,8 @@
 
 This week's suggested readings:
 
-- [James Evans. 'Complementary Artificial Intelligence'](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/9:28_evans_ComplementaryAIShare.pdf)
-- [Sourati, J., & Evans, J. (2023). 'Accelerating science with human-aware artificial intelligence'](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/9:28_evans_s41562-023-01648-z%20(1).pdf)
+- [James Evans. 'Complementary Artificial Intelligence'](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/evans-9-28/9%3A28_evans_ComplementaryAIShare.pdf)
+- [Sourati, J., & Evans, J. (2023). 'Accelerating science with human-aware artificial intelligence'](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/evans-9-28/9%3A28_evans_s41562-023-01648-z%20(1).pdf)
 
 <br>
 
