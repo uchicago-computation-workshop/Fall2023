@@ -55,16 +55,16 @@
 
 <p class=footertext2>
 
-**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a question about the paper(s) on the first issues <a href= "https://github.com/uchicago-computation-workshop/Fall2021/issues/1"> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
+**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a question about the paper(s) on this **[issues page](https://github.com/uchicago-computation-workshop/Fall2023/issues/2)** of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
 
 <p class=footertext2>
 
 **Before the first meeting**, by Wednesday, September 27 @ 11:59pm each of you will:
 
-- Post the questions and comments you have about the suggested readings. 
-- For this week's edition of the workshop, propose one or more computational social scientists we can invite for our seminar series this year, including a 1-2 sentence defense of why others might want to hear from them.
+- Post the questions and comments you have about the suggested readings **[HERE](https://github.com/uchicago-computation-workshop/Fall2023/issues/2)**. 
+- For this week's edition of the workshop, propose one or more computational social scientists we can invite for our seminar series this year **[HERE](https://github.com/uchicago-computation-workshop/Fall2023/issues/1)**, including a 1-2 sentence defense of why others might want to hear from them.
 
-**Then by Thursday, Sep 30 @ 10:59am:**
+**Then by Thursday, Sep 28 @ 10:00am:**
 
 - Upvote (“thumbs up”) **at least 5** questions from other people. Upvote questions and recommendations you like or would like to critique.
 - Respond with YOUR answer or follow-on engagement to one of those 5 questions. 
@@ -74,7 +74,8 @@
 
 This week's suggested readings:
 
-- [James Evans. 2020. 'Social Computing Unhinged.' Journal of Social Computing, 1: 1.](https://ieeexplore.ieee.org/document/9241509)
+- [James Evans. 'Complementary Artificial Intelligence'](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/9:28_evans_ComplementaryAIShare.pdf)
+- [Sourati, J., & Evans, J. (2023). 'Accelerating science with human-aware artificial intelligence'](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/9:28_evans_s41562-023-01648-z%20(1).pdf)
 
 
 <br>
