@@ -14,7 +14,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Fall2023/evans> Digital Doubles and Complementary AI </a>
+  <a href="https://github.com/uchicago-computation-workshop/Fall2023/blob/main/evans-9-28/evans.md"> Digital Doubles and Complementary AI </a>
 </h2>
 
 <br>
