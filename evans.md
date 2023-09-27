@@ -84,8 +84,8 @@ This week's suggested readings:
 
 ---
 
-<p class=footertext> The 2021-2022 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:00 a.m. to 12:20 p.m.. All interested faculty and graduate students are welcome.</p>
+<p class=footertext> The 2023-2024 <a href="https://github.com/uchicago-computation-workshop/Fall2023"> Computational Social Science Workshop </a> meets each Thursday from 11:00 a.m. to 12:20 p.m.. All interested faculty and graduate students are welcome.</p>
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2021/issues/1>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/fall2021mixer>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2023/issues>issues page</a> of the workshop's public repository on GitHub.</a></p>
