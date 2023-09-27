@@ -8,11 +8,7 @@
 
 <br><br>
 
-
-
 <p class=pfblock-header3>The <a href="https://github.com/uchicago-computation-workshop/Fall2023"> Computational Social Science Workshop </a> at the University of Chicago cordially invites you to attend this week's talk:</p>
-
-
 
 <br>
 
@@ -23,7 +19,6 @@
 
 <br>
 </div>
-
 
 
 <p class=footertext2>
@@ -77,7 +72,6 @@ This week's suggested readings:
 - [James Evans. 'Complementary Artificial Intelligence'](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/9:28_evans_ComplementaryAIShare.pdf)
 - [Sourati, J., & Evans, J. (2023). 'Accelerating science with human-aware artificial intelligence'](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/9:28_evans_s41562-023-01648-z%20(1).pdf)
 
-
 <br>
 
 <br><br>
@@ -85,7 +79,6 @@ This week's suggested readings:
 ---
 
 <p class=footertext> The 2023-2024 <a href="https://github.com/uchicago-computation-workshop/Fall2023"> Computational Social Science Workshop </a> meets each Thursday from 11:00 a.m. to 12:20 p.m.. All interested faculty and graduate students are welcome.</p>
-
 
 
 <p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2023/issues>issues page</a> of the workshop's public repository on GitHub.</a></p>
