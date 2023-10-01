@@ -4,6 +4,9 @@ Repository for the Fall 2023 Computational Social Science Workshop
 ### Location: 107 Kent
 
 <br>
+  
+### Sep 29th - [Computational Psychology and Neuroscience Lightning Talks]
+
 
 ### Sep 29th - [James Evans](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/evans-9-28/evans.md)
 
