@@ -5,7 +5,9 @@ Repository for the Fall 2023 Computational Social Science Workshop
 
 <br>
   
-### Oct 5th - [Computational Psychology and Neuroscience Lightning Talks]
+### Oct 5th - Computational Psychology and Neuroscience Lightning Talks
+Our lineup includes:
+[Dr. Wilma Bainbridge](https://brainbridgelab.uchicago.edu/), [Dr. David Freedman](https://monkeylogic.uchicago.edu/), [Dr. Jai Yu](https://voices.uchicago.edu/jaiyu/team/), [Dr. YC Leong](https://macleanlab.uchicago.edu/), [Dr. Jason MacLean](https://macleanlab.uchicago.edu/) and [Dr. Marc Berman](https://voices.uchicago.edu/bermanlab/)
 
 <br>
 
