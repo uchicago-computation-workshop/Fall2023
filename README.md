@@ -5,8 +5,9 @@ Repository for the Fall 2023 Computational Social Science Workshop
 
 <br>
   
-### Sep 29th - [Computational Psychology and Neuroscience Lightning Talks]
+### Oct 5th - [Computational Psychology and Neuroscience Lightning Talks]
 
+<br>
 
 ### Sep 29th - [James Evans](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/evans-9-28/evans.md)
 
