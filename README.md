@@ -16,9 +16,11 @@ Our lineup includes:
 [Dr. Wilma Bainbridge](https://brainbridgelab.uchicago.edu/), [Dr. David Freedman](https://monkeylogic.uchicago.edu/), [Dr. Jai Yu](https://voices.uchicago.edu/jaiyu/team/), [Dr. YC Leong](https://macleanlab.uchicago.edu/), [Dr. Jason MacLean](https://macleanlab.uchicago.edu/) and [Dr. Marc Berman](https://voices.uchicago.edu/bermanlab/)
 
 
-Slides of Dr. Berman: [Here](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/psychology-10-5/Lightning%20Talk.pptx)
+Slides of Dr. Bainbridge: [Here](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/psychology-10-5/MACSS%20lightning-10-5-23_wilma_web.pdf)
 
-Slides of Dr. YC Leong: [Here](https://www.dropbox.com/scl/fi/70gp0cpofpq551x89sl8k/MACSS_Lightning_Clean.pptx?rlkey=2pfy1wergsqpxikh1fwoynux0&dl=0) 
+Slides of Dr. Freeman: [Here](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/psychology-10-5/Lightning%20Talk.pptx)
+
+Slides of Dr. YC Leong: [Here](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/psychology-10-5/MACSS_Lightning_Clean_YC.pdf) 
 
 Slides of Dr. Berman: [Here](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/psychology-10-5/Berman_MACSS_lightning.pdf)
 
