@@ -33,5 +33,4 @@ Slides of Dr. Berman: [Here](https://github.com/uchicago-computation-workshop/Fa
 <br>
 
 ### Sep 29th - [James Evans](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/evans-9-28/evans.md)
-
-<div><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/JamesEvans_0.jpg?itok=wYsSKKDu" width="240" height="240"></div>
+![Alt text](https://github.com/uchicago-computation-workshop/Fall2023/blob/main/evans-9-28/Evans_James_A.jpg)
