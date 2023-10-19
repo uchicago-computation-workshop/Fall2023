@@ -5,6 +5,11 @@ Repository for the Fall 2023 Computational Social Science Workshop
 
 <br>
 
+### Oct 19th - Computational Sociology Lightning Talks
+Our lineup includes: [Robert Vargas](https://sociology.uchicago.edu/directory/Robert-Vargas), [Geoffrey Wodtke](https://sociology.uchicago.edu/directory/Geoffrey-Wodtke), [Bernard Koch](https://sociology.uchicago.edu/directory/John-Levi-Martin), [John Levi Martin](https://sociology.uchicago.edu/directory/John-Levi-Martin), and [Sabrina Nardin](https://macss.uchicago.edu/directory/Sabrina-Nardin).
+
+<br>
+
 ### Oct 12th - Computational Political Science Lightning Talks
 Our lineup includes:
 [Rochelle Terman](http://rochelleterman.com/), [Molly Offer-Westort](https://mollyow.github.io/), [Patricia Posey](https://political-science.uchicago.edu/directory/Paul-Poast), [Paul Poast](https://political-science.uchicago.edu/directory/Paul-Poast), [John Padgett](https://home.uchicago.edu/~jpadgett/), [Ali Sanaei](https://macss.uchicago.edu/directory/Ali-Sanaei) and [Jean Clipperton](https://macss.uchicago.edu/directory/Jean-Clipperton). 
