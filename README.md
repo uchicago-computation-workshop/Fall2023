@@ -5,8 +5,36 @@ Repository for the Fall 2023 Computational Social Science Workshop
 
 <br>
 
+### Nov 30th - Poster Presentations in the MACSS Lounge
+
+<br>
+
+### Nov 23rd - Thanksgiving!!!
+
+<br>
+
+### Nov 16th - Computational Economics Lightning Talks
+Our lineup includes: [Steven Durlauf](https://harris.uchicago.edu/directory/steven-durlauf), [Greg Kaplan](https://gregkaplan.me/), [Anjali Adukia](https://harris.uchicago.edu/directory/anjali-adukia), & [Bruce Meyer](https://harris.uchicago.edu/directory/bruce-d-meyer).
+
+<br>
+
+### Nov 9th - Computational Behavioral Science Lightning Talks
+Our lineup includes: [Nick Epley](https://www.chicagobooth.edu/faculty/directory/e/nicholas-epley), [Joshua Conrad Jackson](https://www.chicagobooth.edu/faculty/directory/j/joshua-conrad-jackson), & [Luis Bettencourt](https://eegraduate.uchicago.edu/faculty/luis-bettencourt-phd).
+
+<br>
+
+### Nov 2nd - Computational Anthropology and Humanities
+Our lineup includes: [Karin Knorr](https://sociology.uchicago.edu/directory/Karin-Knorr-Cetina), [Jon Clindaniel](https://macss.uchicago.edu/directory/Jon-Clindaniel), & [Hoyt Long](https://ealc.uchicago.edu/people/hoyt-long-phd).
+
+<br>
+
+### Oct 26th - Computer and Data Science Lightning Talks
+Our lineup includes: [Pedro Lopes](https://cs.uchicago.edu/people/pedro-lopes/), [Nick Feamster](https://people.cs.uchicago.edu/~feamster/), [Marshini Chetty](https://cs.uchicago.edu/people/marshini-chetty/), [Blase Ur](https://cs.uchicago.edu/people/blase-ur/) & [Zhao Wang](https://macss.uchicago.edu/directory/Zhao-Wang)
+
+<br>
+
 ### Oct 19th - Computational Sociology Lightning Talks
-Our lineup includes: [Robert Vargas](https://sociology.uchicago.edu/directory/Robert-Vargas), [Geoffrey Wodtke](https://sociology.uchicago.edu/directory/Geoffrey-Wodtke), [Bernard Koch](https://sociology.uchicago.edu/directory/John-Levi-Martin), [John Levi Martin](https://sociology.uchicago.edu/directory/John-Levi-Martin), and [Sabrina Nardin](https://macss.uchicago.edu/directory/Sabrina-Nardin).
+Our lineup includes: [Robert Vargas](https://sociology.uchicago.edu/directory/Robert-Vargas), [Geoffrey Wodtke](https://sociology.uchicago.edu/directory/Geoffrey-Wodtke), [Bernard Koch](https://sociology.uchicago.edu/directory/John-Levi-Martin), [John Levi Martin](https://sociology.uchicago.edu/directory/John-Levi-Martin), & [Sabrina Nardin](https://macss.uchicago.edu/directory/Sabrina-Nardin).
 
 <br>
 
